@@ -8,6 +8,25 @@
 
 
 
+
+\---
+
+
+
+\## Tools
+
+\- MATLAB R2024a / Simulink / Stateflow
+
+\- Embedded Coder (ert.tlc)
+
+\- Simulink Requirements Toolbox
+
+\- Git (version control)
+
+\- MinGW-w64 (compiler)
+
+
+
 \---
 
 
