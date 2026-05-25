@@ -286,3 +286,7 @@ Feature arbitration priority:
 
 \- Layer 6 complete - MIL test TC\_001 PASS
 
+\- Layer 7: Code gen report — 67 bytes RAM, complexity 14 documented
+
+\- Layer 8: REQ-001 linked to PINCH_DETECTED→REVERSING transition
+
