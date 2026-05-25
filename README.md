@@ -150,9 +150,9 @@ Feature arbitration priority:
 
 \- \[x] Layer 6: MIL test harness — TC\_001 PASS
 
-\- \[x] Layer 7: Code generation — ert.tlc, MISRA review
+\- \[x] Layer 7: Code generation — ert.tlc, 67 bytes RAM, cyclomatic complexity 14 documented
 
-\- \[x] Layer 8: Requirements traceability
+\- \[x] Layer 8: Requirements traceability — REQ-001 linked to REVERSING transition
 
 
 
