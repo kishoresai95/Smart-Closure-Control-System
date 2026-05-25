@@ -150,9 +150,9 @@ Feature arbitration priority:
 
 \- \[x] Layer 6: MIL test harness — TC\_001 PASS
 
-\- \[ ] Layer 7: Code generation — ert.tlc, MISRA review
+\- \[x] Layer 7: Code generation — ert.tlc, MISRA review
 
-\- \[ ] Layer 8: Requirements traceability
+\- \[x] Layer 8: Requirements traceability
 
 
 
