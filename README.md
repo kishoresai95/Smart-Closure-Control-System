@@ -215,14 +215,21 @@ Feature arbitration priority:
 \---
 
 
-## Code Generation Results (Layer 7)
-- Target: ert.tlc (Embedded Real-Time)
-- Global RAM: 67 bytes total
-- Max Stack: 0 bytes (no dynamic allocation)
-- Main file LOC: 106 (SCCS_AntiPinch_SM_03.c)
-- Step function cyclomatic complexity: 14 (documented deviation — 5-state FSM)
-- MISRA C:2012 objectives registered
-- Bidirectional traceability verified
+\## Code Generation Results (Layer 7)
+
+\- Target: ert.tlc (Embedded Real-Time)
+
+\- Global RAM: 67 bytes total
+
+\- Max Stack: 0 bytes (no dynamic allocation)
+
+\- Main file LOC: 106 (SCCS_AntiPinch_SM_03.c)
+
+\- Step function cyclomatic complexity: 14 (documented deviation — 5-state FSM)
+
+\- MISRA C:2012 objectives registered
+
+\- Bidirectional traceability verified
 
 
 
@@ -231,9 +238,13 @@ Feature arbitration priority:
 
 
 \## Requirements Traceability (Layer 8)
+
 \- Tool: Simulink Requirements Toolbox (R2024a)
+
 \- REQ-001: Anti-pinch system shall detect current spike and transition to REVERSING state within 100ms
+
 \- Link type: IMPLEMENTS
+
 \- Linked element: PINCH_DETECTED → REVERSING transition [after(0.1, sec)]
 
 
