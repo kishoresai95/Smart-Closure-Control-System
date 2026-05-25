@@ -216,7 +216,6 @@ Feature arbitration priority:
 
 
 ## Code Generation Results (Layer 7)
-
 - Target: ert.tlc (Embedded Real-Time)
 - Global RAM: 67 bytes total
 - Max Stack: 0 bytes (no dynamic allocation)
